@@ -5,17 +5,17 @@ sensorimotor and emotional brain processing in individuals with neurodevelopment
 ## Project structure
 The repository is organized as follows:
 
-* MATLAB/: Contains the MATLAB scripts for managing the experimental protocol, presenting stimuli, and synchronizing EEG recordings.
+* `MATLAB/`: Contains the MATLAB scripts for managing the experimental protocol, presenting stimuli, and synchronizing EEG recordings.
 
-* ESP32/: Contains the code for the ESP-32 microcontroller that controls the mechanical arthromotor.
+* `ESP32/`: Contains the code for the ESP-32 microcontroller that controls the mechanical arthromotor.
 
-* 3DModels/: Contains STL files and documentation for the 3D printed parts of the arthromotor.
+* `3DModels/`: Contains STL files and documentation for the 3D printed parts of the arthromotor.
 
-* Docs/: Contains detailed documentation on the experimental setup, software installation, and usage instructions.
+* `Docs/`: Contains detailed documentation on the experimental setup, software installation, and usage instructions.
 
-* LICENSE: The project's open-source license.
+* `LICENSE`: The project's open-source license.
 
-* README.md: This readme file.
+* `README.md`: This readme file.
 
 
 ## Prerequisites
