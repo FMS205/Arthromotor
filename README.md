@@ -35,11 +35,5 @@ Collect Data: The MATLAB script will present stimuli, control the arthromotor, a
 Analyze Data: Use your preferred EEG analysis tools to interpret the collected data.
 
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contributing
-We welcome contributions to this project! Please see Docs/CONTRIBUTING.md for guidelines on how to contribute.
-
 ## Acknowledgments
 This project was developed as part of a study on neurodevelopmental disorders. Special thanks to all the researchers and participants involved in this study.
